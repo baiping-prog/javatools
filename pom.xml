@@ -19,7 +19,7 @@
         <poi>3.10-FINAL</poi>
         <gson>2.3.1</gson>
         <servlet>3.1.0</servlet>
-        <commons-lang3>3.7</commons-lang3>
+        <commons-lang3>3.18.0</commons-lang3>
     </properties>
 
     <dependencies>
